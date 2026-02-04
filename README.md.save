@@ -1,7 +1,5 @@
 # first-...-
 
 #install #установка npm пакета
-
-#lint
-#lint-fix
-
+# lint #линтер
+# lint-fix #
