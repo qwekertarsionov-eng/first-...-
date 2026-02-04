@@ -1,2 +1,2 @@
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import { doLog } from './src/index.js'
+	doLog()
